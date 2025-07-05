@@ -1,6 +1,6 @@
 # Software Development S3
 
-[Kennisbank](https://github.com/s3-kennisbank)
+[Kennisbank](https://github.com/HU-SD-S3/s3-kennisbank)
 
 ## Iteraties
 
