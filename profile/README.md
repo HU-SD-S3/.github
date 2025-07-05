@@ -1,5 +1,7 @@
 # Software Development S3
 
+[Kennisbank](https://github.com/s3-kennisbank)
+
 ## Iteraties
 
 * [September 25-26](https://github.com/HU-SD-S3-Studenten-S2526)
