@@ -2,4 +2,4 @@
 
 Een plek om de Home-pagina van de org te beheren...
 
-(en komt dit er dan te staan?)
+Maar de plek om daadwerkelijk die pagina te beheren is kennelijk [hier](./profile/README.md)
